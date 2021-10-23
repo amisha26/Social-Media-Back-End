@@ -21,7 +21,7 @@ npm init
 npm add express mongoose dotenv helmet morgan nodemon
 ```
 ```
-np start
+npm start
 ```
 
 ### Error you can face regarding port used :--
