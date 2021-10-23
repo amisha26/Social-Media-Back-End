@@ -16,7 +16,11 @@ npm start
 
 ```
 npm init
+```
+```
 npm add express mongoose dotenv helmet morgan nodemon
+```
+```
 np start
 ```
 
