@@ -47,5 +47,5 @@ sudo kill $(sudo lsof -t -i:8080)
 * Run both Back-End & Front-End in different port.
 * Don't start the front-end server first  
 
-### HAPPY CODING
+### HAPPY CODING ✌️
 
