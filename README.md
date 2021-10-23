@@ -16,7 +16,7 @@ npm start
 
 ```
 npm init
-npm add expresmongoosedoenv helmet mogan nodemon
+npm add express mongoose dotenv helmet morgan nodemon
 np start
 ```
 
