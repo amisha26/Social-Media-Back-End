@@ -1,7 +1,7 @@
 ### Social-Media Back-End 
 
 * Node.js
-* MonogoDB 
+* MongoDB 
 * Socket.io
 
 ### To run this from clone
@@ -26,12 +26,12 @@ npm start
 
 ### Error you can face regarding port used :--
 
-* solution
+* Solution
 
 ```
 sudo kill $(sudo lsof -t -i:8080)
 ```
-### For front-End Repo
+### For Front-End Repo
 
 [Font-End](https://github.com/amisha26/Social-Media-FrontEnd)
 
@@ -43,6 +43,8 @@ sudo kill $(sudo lsof -t -i:8080)
 3. Now start backend server using - ( npm start )
 4. If its shows backend running you are good to go.
 5. Now start the client server ( Front-end ) using - ( npm start )
+
+#### Important :-
 
 * Run both Back-End & Front-End in different port.
 * Don't start the front-end server first  
