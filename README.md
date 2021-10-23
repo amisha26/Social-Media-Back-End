@@ -1,14 +1,24 @@
 #### Social-Media Back-End 
 
 * Node.js
+* MonogoDB 
+* Socket.io
+
+### To run this from clone
+```
+git clone
+npm install
+npm start
+```
+* Check the package.json start script before npm start
+ 
+### To run as new project
+
 ```
 npm init
 npm add expresmongoosedoenv helmet mogan nodemon
 np start
 ```
-
-* MonogoDB 
-* Socket.io
 
 #### Error you can face regarding port used :--
 
