@@ -32,7 +32,7 @@ sudo kill $(sudo lsof -t -i:x)
 
 ### To use cors in your back-end
 
-* install cors first on root folder
+* Install cors first on root folder
 ```
 npm install cors
 ```
@@ -55,7 +55,7 @@ app.use(cors())
 ```
 npm install
 ```
-3. now start the cliebt server
+3. Now start the cliebt server
 ```
 npm start
 ```
