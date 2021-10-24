@@ -33,3 +33,6 @@ app.use(cors())
 ```
 
 6. In app.js file or your main file which can also be ( server.js )
+
+
+### HAPPY CODING ✌️
