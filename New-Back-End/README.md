@@ -15,3 +15,5 @@ npm start
 sudo kill $(sudo lsof -t -i:x)
 ``` 
 here x will be the port number ex:- ( 8080, 8000, 8800..etc ) 
+4. If you are using this on local host wihtout the request url as (http://localhost:8800)
+- Then make sure to psot the request to right port.
