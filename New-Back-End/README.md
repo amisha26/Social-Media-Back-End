@@ -32,7 +32,7 @@ sudo kill $(sudo lsof -t -i:x)
 
 ### To use cors in your back-end
 
-* Install cors first on root folder
+* Install CORS on root folder first
 ```
 npm install cors
 ```
