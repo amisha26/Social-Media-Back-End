@@ -14,11 +14,13 @@ npm start
 ```
 sudo kill $(sudo lsof -t -i:x)
 ``` 
-here x will be the port number ex:- ( 8080, 8000, 8800..etc ) 
-4. If you are using this on local host wihtout the request url as (http://localhost:8800)
-- Then make sure to psot the request to right port.
+* Here x will be the port number ex:- ( 8080, 8000, 8800..etc ) 
+
+4. If you are using this on local host wihtout the request url as ( http://localhost:8800 )
+* Make sure to port the request to right port.
+
 5. If you are using it on (http://localhost:8800/api/auth/register..)
-- make sure to use CORS
+* Make sure to use CORS
 
 ### To use cors in your back-end
 
