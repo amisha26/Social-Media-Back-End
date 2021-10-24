@@ -14,3 +14,4 @@ npm start
 ```
 sudo kill $(sudo lsof -t -i:x)
 ``` 
+here x will be the port number ex:- ( 8080, 8000, 8800..etc ) 
