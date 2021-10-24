@@ -6,7 +6,7 @@
 
 <hr>
 
-### For Backend Part :-
+### For Back-end Part :-
 
 1. Make .env file and save the mongoDB server link there to connect with mongodb.
 2. now start the server of backend by using 
@@ -30,7 +30,7 @@ sudo kill $(sudo lsof -t -i:x)
 
 <hr>
 
-### To use cors in your back-end
+### To use cors in your back-end :-
 
 * Install CORS on root folder first
 ```
@@ -48,7 +48,7 @@ app.use(cors())
 <hr>
 
 
-### For Frontend Part :-
+### For Front-end Part :-
 
 1. Now the bcakend set-up is done.
 2. Make sure you have all the dependecies are installed.
