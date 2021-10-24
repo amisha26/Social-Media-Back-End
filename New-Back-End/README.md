@@ -43,6 +43,21 @@ app.use(cors())
 ```
 <hr>
 
+
+### For Frontend Part :-
+
+1. Now the bcakend set-up is done.
+2. Make sure you have all the dependecies are installed.
+```
+npm install
+```
+3. now start the cliebt server
+```
+npm start
+```
+
+<hr>
+
 #### Important :-
 
 * Run both Back-End & Front-End in different port.
