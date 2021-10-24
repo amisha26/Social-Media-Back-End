@@ -31,7 +31,7 @@ npm start
 ```
 sudo kill $(sudo lsof -t -i:x)
 ```
-here x will be the port number ex:- ( 8080,
+here x will be the port number ex:- ( 8080,8000,8800,...)
 ### For Front-End Repo
 
 [Font-End](https://github.com/amisha26/Social-Media-FrontEnd)
