@@ -22,6 +22,11 @@ sudo kill $(sudo lsof -t -i:x)
 5. If you are using it on (http://localhost:8800/api/auth/register..)
 * Make sure to use CORS
 
+
+6. In app.js file or your main file which can also be ( server.js )
+
+<hr>
+
 ### To use cors in your back-end
 
 ```
@@ -33,8 +38,7 @@ const cors = require('cors')
 const app = express()
 app.use(cors())
 ```
-
-6. In app.js file or your main file which can also be ( server.js )
+<hr>
 
 #### Important :-
 
