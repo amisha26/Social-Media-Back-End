@@ -1,7 +1,10 @@
 ### Social-Media New Back-End
 
 * There were some issues with the old backend.
-* To proply connect backend nad front-end.
+* To proply connect backend and front-end.
+* Follow the below steps :-
+
+<hr>
 
 ### For Backend Part :-
 
