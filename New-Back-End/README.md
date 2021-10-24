@@ -32,9 +32,13 @@ sudo kill $(sudo lsof -t -i:x)
 
 ### To use cors in your back-end
 
+* install cors first on root folder
 ```
 npm install cors
 ```
+
+* Put it in App.js or Server.js of your set-up
+
 ```
 const express = require('express')
 const cors = require('cors')
